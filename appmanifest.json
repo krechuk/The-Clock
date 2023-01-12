@@ -1,0 +1,16 @@
+{
+	"name": "The clock",
+	"short_name": "The clock",
+	"description": "The clock",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
